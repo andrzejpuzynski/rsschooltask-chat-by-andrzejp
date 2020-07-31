@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rsschooltask-chat-by-andrzejp/static/css/main.79b73328.chunk.css",
+    "main.js": "/rsschooltask-chat-by-andrzejp/static/js/main.cebed96e.chunk.js",
+    "main.js.map": "/rsschooltask-chat-by-andrzejp/static/js/main.cebed96e.chunk.js.map",
+    "runtime-main.js": "/rsschooltask-chat-by-andrzejp/static/js/runtime-main.786f4763.js",
+    "runtime-main.js.map": "/rsschooltask-chat-by-andrzejp/static/js/runtime-main.786f4763.js.map",
+    "static/js/2.f284a4c4.chunk.js": "/rsschooltask-chat-by-andrzejp/static/js/2.f284a4c4.chunk.js",
+    "static/js/2.f284a4c4.chunk.js.map": "/rsschooltask-chat-by-andrzejp/static/js/2.f284a4c4.chunk.js.map",
+    "index.html": "/rsschooltask-chat-by-andrzejp/index.html",
+    "precache-manifest.ff8682d059481da0d5f401700ec36699.js": "/rsschooltask-chat-by-andrzejp/precache-manifest.ff8682d059481da0d5f401700ec36699.js",
+    "service-worker.js": "/rsschooltask-chat-by-andrzejp/service-worker.js",
+    "static/css/main.79b73328.chunk.css.map": "/rsschooltask-chat-by-andrzejp/static/css/main.79b73328.chunk.css.map",
+    "static/js/2.f284a4c4.chunk.js.LICENSE.txt": "/rsschooltask-chat-by-andrzejp/static/js/2.f284a4c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.786f4763.js",
+    "static/js/2.f284a4c4.chunk.js",
+    "static/css/main.79b73328.chunk.css",
+    "static/js/main.cebed96e.chunk.js"
+  ]
+}
